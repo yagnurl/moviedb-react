@@ -1,6 +1,9 @@
 
 # MOVIE PROJECT
 
+#### DEMO 
+[https://affectionate-visvesvaraya-c4fcd2.netlify.app/](https://affectionate-visvesvaraya-c4fcd2.netlify.app/ "https://affectionate-visvesvaraya-c4fcd2.netlify.app/")
+
 ## Features
 
 - Movie informations are displayed in a card structure:
@@ -22,3 +25,4 @@
 - [x] Popular Movies Page will add
 - [x] 404 page will add
 
+[![https://github.com/yagnurl/moviedb-react/blob/main/moviedb.png?raw=true](https://github.com/yagnurl/moviedb-react/blob/main/moviedb.png?raw=true "https://github.com/yagnurl/moviedb-react/blob/main/moviedb.png?raw=true")](http://https://github.com/yagnurl/moviedb-react/blob/main/moviedb.png?raw=true "https://github.com/yagnurl/moviedb-react/blob/main/moviedb.png?raw=true")
