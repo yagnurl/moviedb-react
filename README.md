@@ -22,7 +22,7 @@
 
 ## To Do
 
-- [x] Popular Movies Page will add
-- [x] 404 page will add
+- [x] Popular Movies Page will be added
+- [x] 404 page will be added
 
 [![https://github.com/yagnurl/moviedb-react/blob/main/moviedb.png?raw=true](https://github.com/yagnurl/moviedb-react/blob/main/moviedb.png?raw=true "https://github.com/yagnurl/moviedb-react/blob/main/moviedb.png?raw=true")](http://https://github.com/yagnurl/moviedb-react/blob/main/moviedb.png?raw=true "https://github.com/yagnurl/moviedb-react/blob/main/moviedb.png?raw=true")
